@@ -1,0 +1,4 @@
+music/cairokee/ana_negm.mp3
+music/cairokee/costa_rica.mp3
+music/cairokee/roma.mp3
+music/cairokee/roberto.mp3
